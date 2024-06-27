@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+    "./src",
+    "./src",
+    "./src"
+  ],
+  "cSpell.words": [
+    "straightline"
+  ]
+}
